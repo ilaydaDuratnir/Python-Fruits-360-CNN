@@ -1,5 +1,5 @@
 # Python-Fruits-360-CNN
-<img src="./result.PNG"></img>
+<img src="./img/result.PNG"></img>
 
 <strong>Fruits Detection using CNN model.</strong>
 
